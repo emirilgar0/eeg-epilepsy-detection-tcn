@@ -1,4 +1,4 @@
-EEG Tabanlı Epilepsi Tespiti - TCN Modeli
+EEG Tabanlı Epilepsi Tespiti - TCN Modeli 
 Bu proje, Makine Öğrenmesi dersi kapsamında Bonn Üniversitesi EEG veri seti kullanılarak "Sağlıklı" ve "Nöbet (Seizure)" durumlarını ayırt etmeyi hedefleyen bir zaman serisi sınıflandırma (time series classification) çalışmasıdır. Model olarak Temporal Convolutional Network (TCN) kullanılmıştır.
 
 Proje Özeti ve Teknik Strateji
